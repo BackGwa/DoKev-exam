@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img src='../../image/upanddown-screenshot.png' width='300'>
+    <img src='../../image/uad-screenshot.png' width='300'>
 </p>
 
 ## <p align='center'>**[ 업앤다운 ]**</p>
