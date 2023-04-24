@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img src='../image/maze-screenshot.png' width='300'>
+    <img src='../../image/maze-screenshot.png' width='300'>
 </p>
 
 ## <p align='center'>**[ 미로찾기 ]**</p>
