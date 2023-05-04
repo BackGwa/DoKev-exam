@@ -7,7 +7,7 @@
 ---
 
 ### **DoKev 레포지토리**
-https://github.com/BackGwa/Dokev_KrC
+https://github.com/BackGwa/DoKev
 <br>
 
 ### **DoKev 빠르게 배우기**
